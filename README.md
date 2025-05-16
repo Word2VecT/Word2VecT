@@ -7,4 +7,5 @@
 
 Intern:
 
-- Shanghai AI Lab OpenDataLab Dr. Lijun Wu @apeterswu
+- Shanghai AI Lab OpenDataLab, Dr. Lijun Wu
+- PKU DCML, Prof. Wentao Zhang
