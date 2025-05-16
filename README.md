@@ -4,3 +4,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT" />
 </a>
+
+Intern:
+
+- Shanghai AI Lab OpenDataLab Dr. Lijun Wu @apeterswu
