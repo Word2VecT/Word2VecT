@@ -29,7 +29,7 @@
   </p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     <a href="https://zinantang.works" target="_blank">
-      <img src="https://img.shields.io/badge/Personal-Blog-blue?style=social&logo=blogger">
+      <img src="https://img.shields.io/badge/Personal-Blog-blue?style=social&logo=homepage">
     </a>
   </p>
 </span>
@@ -40,5 +40,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT" />
 </a>
-
-Shanghai AI Lab OpenDataLab RAISE Group Intern, Dr. Lijun Wu
