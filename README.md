@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green" style="display: inline-block;" />
     <br>
     <img src="https://img.shields.io/badge/PyTorch-green?style=flat-square&logo=pytorch&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" style="display: inline-block;" />
