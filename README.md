@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zinan Tang (唐梓楠) </h1>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🤔 &nbsp; Learning NLP、DL、LLM especially Data4LLM and LLM4data.
 - 🏫 &nbsp; Currently a third-year undergraduate student in [BUPT](https://www.bupt.edu.cn/) [School of Computer Science](https://scs.bupt.edu.cn/).
@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" style="display: inline-block;" />
   </div>
 
-<h3> 👌 &nbsp;My Status</h3>
+<h3> 👌 &nbsp;Status</h3>
 
 <table align="center" width="100%">
   <tr>
