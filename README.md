@@ -36,14 +36,14 @@
 
 <h3> 👌 &nbsp;My Status</h3>
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/Word2VecT" style="width: 41%;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=1&column=3" alt="Trophy" style="width: 100%; height: 100%; object-fit: contain;"/>
+<div>
+  <a href="https://github.com/Word2VecT" style="float: left; width: 41%; box-sizing: border-box; padding-right: 5px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=1&column=3" alt="Trophy" style="width: 100%;"/>
   </a>
-  <a href="https://github.com/anuraghazra/convoychat" style="width: 26%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT&layout=compact&langs_count=6" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;"/>
+  <a href="https://github.com/anuraghazra/convoychat" style="float: left; width: 26%; box-sizing: border-box; padding-left: 5px; padding-right: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT&layout=compact&langs_count=6" alt="Top Languages" style="width: 100%;"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 33%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Word2VecT&show_icons=true&count_private=true" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="float: left; width: 33%; box-sizing: border-box; padding-left: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Word2VecT&show_icons=true&count_private=true" alt="GitHub Stats" style="width: 100%;"/>
   </a>
 </div>
