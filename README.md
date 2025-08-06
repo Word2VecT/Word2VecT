@@ -20,11 +20,9 @@
   <a href="mailto:tangzinan@bupt.edu.cn" target="_blank">
     <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=tangzinan@bupt.edu.cn">
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Word2VecT" target="_blank">
     <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Word2VecT">
   </a>
-  &nbsp;&nbsp;
   <a href="https://zinantang.works" target="_blank">
     <img src="https://img.shields.io/badge/Personal-Blog-blue?style=social&logo=homepage">
   </a>
