@@ -16,17 +16,23 @@
 
 <h3> 🤝 &nbsp;Connect with Me</h3>
 
-<p>
-  <a href="mailto:tangzinan@bupt.edu.cn" target="_blank">
-    <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=tangzinan@bupt.edu.cn">
-  </a>
-  <a href="https://github.com/Word2VecT" target="_blank">
-    <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Word2VecT">
-  </a>
-  <a href="https://zinantang.works" target="_blank">
-    <img src="https://img.shields.io/badge/Personal-Blog-blue?style=social&logo=homepage">
-  </a>
-</p>
+<span align="left">
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href="mailto:tangzinan@bupt.edu.cn" target=_blank">
+      <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=tangzinan@bupt.edu.cn">
+    </a>
+  </p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <a href="https://github.com/Word2VecT" target="_blank">
+      <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Word2VecT">
+    </a>
+  </p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <a href="https://zinantang.works" target="_blank">
+      <img src="https://img.shields.io/badge/Personal-Blog-blue?style=social&logo=homepage">
+    </a>
+  </p>
+</span>
 
 <h3> 👌 &nbsp;My Status</h3>
 
