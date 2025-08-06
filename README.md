@@ -19,7 +19,7 @@
 <span align="left">
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="mailto:tangzinan@bupt.edu.cn target="_blank">
-      <img src="https://img.shields.io/badge/email-white?style=social&logo=mail&label=tangzinan@bupt.edu.cn">
+      <img src="https://img.shields.io/badge/email-white?style=social&logo=email&label=tangzinan@bupt.edu.cn">
     </a>
   </p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
@@ -29,7 +29,7 @@
   </p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     <a href="https://zinantang.works" target="_blank">
-      <img src="https://img.shields.io/badge/Personal-Blog-blue?style=social&logo=home">
+      <img src="https://img.shields.io/badge/Personal-Blog-blue?style=social&logo=homepage">
     </a>
   </p>
 </span>
