@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" style="display: inline-block;" />
     <br>
     <img src="https://img.shields.io/badge/PyTorch-green?style=flat-square&logo=pytorch&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" style="display: inline-block;" />
