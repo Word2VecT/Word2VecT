@@ -36,21 +36,21 @@
 
 <h3> 👌 &nbsp;My Status</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="vertical-align: top;">
+    <td width="33.3%" style="padding: 0 8px;">
       <a href="https://github.com/Word2VecT">
-        <img src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=1&column=3" alt="Trophy"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=1&column=3" alt="Trophy" style="width: 100%; height: 100%; object-fit: contain;"/>
       </a>
     </td>
-    <td align="center" valign="middle">
+    <td width="33.3%" style="padding: 0 8px;">
       <a href="https://github.com/anuraghazra/convoychat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;"/>
       </a>
     </td>
-    <td align="center" valign="middle">
+    <td width="33.3%" style="padding: 0 8px;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Word2VecT&show_icons=true&count_private=true" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Word2VecT&show_icons=true&count_private=true" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;"/>
       </a>
     </td>
   </tr>
