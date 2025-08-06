@@ -38,7 +38,7 @@
 
 <div>
   <a href="https://github.com/Word2VecT">
-    <img width="340" src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="Trophy"/>
+    <img width="340" src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=3" alt="Trophy"/>
   </a>
 </div>
 <div>
