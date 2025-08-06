@@ -18,7 +18,7 @@
 
 <span align="left">
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href="mailto:tangzinan@bupt.edu.cn target="_blank">
+    <a href="mailto:tangzinan@bupt.edu.cn" target=_blank">
       <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=tangzinan@bupt.edu.cn">
     </a>
   </p>
