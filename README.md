@@ -3,12 +3,11 @@
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/PyTorch-green?style=flat-square&logo=pytorch&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/C%23-yellow?style=flat-square&logo=csharp&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/Matlab-important?style=flat-square&logo=matrix&logoColor=white" style="display: inline-block;" />
   </div>
 </h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 - 🤔 &nbsp; Learning NLP、DL、LLM especially Data4LLM and LLM4data.
 - 🏫 &nbsp; Currently a third-year undergraduate student in [BUPT](https://www.bupt.edu.cn/) [School of Computer Science](https://scs.bupt.edu.cn/).
 - 🎓 &nbsp; Major in Computer Science (CS).
@@ -16,6 +15,7 @@
 - 🔭 &nbsp; Stay hungry, stay foolish.
 
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
+
 <span align="left">
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="mailto:tangzinan@bupt.edu.cn target="_blank">
