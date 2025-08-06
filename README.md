@@ -40,7 +40,7 @@
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/Word2VecT">
-        <img src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="Trophy"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=1&column=3" alt="Trophy"/>
       </a>
     </td>
     <td align="center" valign="middle">
