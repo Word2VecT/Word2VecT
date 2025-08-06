@@ -28,7 +28,7 @@
   </p>
 </span>
 
-<h3> 📏 &nbsp;Skills</h3>
+<h3> 📏 &nbsp;Skills (Assisted by AI)</h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
