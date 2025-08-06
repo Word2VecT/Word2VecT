@@ -45,7 +45,7 @@
     </td>
     <td width="33.3%" style="padding: 0 8px;">
       <a href="https://github.com/anuraghazra/convoychat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT&layout=compact&langs_count=6" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;"/>
       </a>
     </td>
     <td width="33.3%" style="padding: 0 8px;">
