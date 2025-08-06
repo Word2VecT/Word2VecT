@@ -34,13 +34,12 @@
   </p>
 </span>
 
-<span align="right">
-      <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="https://raw.githubusercontent.com/Word2VecT/Word2VecT/master/Quicker_20231224_134552.png">
+<span align="left">
+  <img width="170" height="165" style="margin: 8px auto" align="left" src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="https://raw.githubusercontent.com/Word2VecT/Word2VecT/master/Quicker_20231224_134552.png">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Word2VecT&show_icons=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT" />
+  </a>
 </span>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Word2VecT&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT" />
-</a>
