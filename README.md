@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" style="display: inline-block;" />
     <br>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/PyTorch-green?style=flat-square&logo=pytorch&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green" style="display: inline-block;" />
