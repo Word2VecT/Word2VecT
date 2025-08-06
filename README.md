@@ -38,11 +38,11 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="middle" width="40%">        <a href="https://github.com/Word2VecT">
+    <td align="center" valign="middle" width="35%">        <a href="https://github.com/Word2VecT">
         <img src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=1&column=3" alt="Trophy" style="width: 100%; height: 100%; object-fit: contain;"/>
       </a>
     </td>
-    <td align="center" valign="middle" width="30%">        <a href="https://github.com/anuraghazra/convoychat">
+    <td align="center" valign="middle" width="35%">        <a href="https://github.com/anuraghazra/convoychat">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT&layout=compact&langs_count=6" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;"/>
       </a>
     </td>
