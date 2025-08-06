@@ -35,7 +35,6 @@
 </span>
 
 <span align="right">
-      <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT&layout=compact&langs_count=6&bg_color=E6E6FA" alt="https://raw.githubusercontent.com/Leey21/Leey21/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231224134245.png">
       <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="https://raw.githubusercontent.com/Word2VecT/Word2VecT/master/Quicker_20231224_134552.png">
 </span>
 
