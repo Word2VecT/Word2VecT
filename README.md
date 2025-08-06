@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" style="display: inline-block;" />
     <br>
     <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white" style="display: inline-block;" />
