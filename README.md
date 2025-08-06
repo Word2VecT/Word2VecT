@@ -36,18 +36,14 @@
 
 <h3> 👌 &nbsp;My Status</h3>
 
-<div>
-  <a href="https://github.com/Word2VecT">
-    <img width="340" src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=3" alt="Trophy"/>
+<div align="center" style="display: flex; align-items: stretch; justify-content: center; gap: 16px;">
+  <a href="https://github.com/Word2VecT" style="flex: 1; display: flex;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="Trophy" style="width: 100%; height: 100%; object-fit: contain;"/>
   </a>
-</div>
-<div>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT" alt="Top Languages"/>
+  <a href="https://github.com/anuraghazra/convoychat" style="flex: 1; display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;"/>
   </a>
-</div>
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Word2VecT&show_icons=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Word2VecT&show_icons=true&count_private=true" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;"/>
   </a>
 </div>
