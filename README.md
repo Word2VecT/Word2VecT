@@ -3,9 +3,10 @@
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/PyTorch-green?style=flat-square&logo=pytorch&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/PyTorch-green?style=flat-square&logo=pytorch&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" style="display: inline-block;" />
