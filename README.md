@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3" style="display: inline-block;" />
+<!--     <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3" style="display: inline-block;" /> -->
   </div>
 
 <h3> 👌 &nbsp;Status</h3>
