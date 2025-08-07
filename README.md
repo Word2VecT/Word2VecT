@@ -29,6 +29,7 @@
 </span>
 
 <h3> 📏 &nbsp;Skills (Assisted by <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" style="display: inline-block;" />)</h3>
+🌐 Browsers
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
