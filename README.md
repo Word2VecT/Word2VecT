@@ -30,7 +30,7 @@
 
 <h3> 📏 Skills (Assisted by <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" style="display: inline-block;" />)</h3>
 
-- 🌐 Browsers: <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white" style="display: inline-block;" />
+- 🌐 Browsers:&nbsp;<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white" style="display: inline-block;" />
 
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="display: inline-block;" /> 
