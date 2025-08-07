@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zinan Tang (唐梓楠) </h1>
 
-<h3> 👨🏻‍💻 &nbsp;About Me</h3>
+<h3> 👨🏻‍💻 About Me</h3>
 
 - 🤔 Learning NLP、DL、LLM especially Data4LLM and LLM4data.
 - 🏫 Currently a third-year undergraduate student in [BUPT](https://www.bupt.edu.cn/) [School of Computer Science](https://scs.bupt.edu.cn/).
@@ -8,27 +8,27 @@
 - 🌱 Working as an intern at [OpenDataLab](https://opendatalab.github.io) in [Shanghai AI Lab](https://www.shlab.org.cn/), mentored by [Lijun Wu](https://apeterswu.github.io).
 - 🔭 Stay hungry, stay foolish.
 
-<h3> 🤝 &nbsp;Connect with Me</h3>
+<h3> 🤝 Connect with Me</h3>
 
 <span align="left">
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <p>
     <a href="mailto:tangzinan@bupt.edu.cn" target=_blank">
       <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=tangzinan@bupt.edu.cn">
     </a>
   </p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  <p>
     <a href="https://github.com/Word2VecT" target="_blank">
       <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Word2VecT">
     </a>
   </p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  <p>
     <a href="https://zinantang.works" target="_blank">
       <img src="https://img.shields.io/badge/Personal-Blog-blue?style=social&logo=homepage">
     </a>
   </p>
 </span>
 
-<h3> 📏 &nbsp;Skills (Assisted by <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" style="display: inline-block;" />)</h3>
+<h3> 📏 Skills (Assisted by <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" style="display: inline-block;" />)</h3>
 - 🌐 Browsers: <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white" style="display: inline-block;" />
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="display: inline-block;" /> 
@@ -60,7 +60,7 @@
 <!--     <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3" style="display: inline-block;" /> -->
   </div>
 
-<h3> 👌 &nbsp;Status</h3>
+<h3> 👌 Status</h3>
 
 <table align="center" width="100%">
   <tr>
