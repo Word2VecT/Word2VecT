@@ -28,6 +28,28 @@
   </p>
 </span>
 
+<h3> 👌 Status</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="26%">
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT&layout=compact&langs_count=6" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;"/>
+      </a>
+    </td>
+    <td align="center" valign="middle" width="33%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Word2VecT&show_icons=true&count_private=true" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;"/>
+      </a>
+    </td>
+    <td align="center" valign="middle" width="41%">
+      <a href="https://github.com/Word2VecT">
+        <img src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=1&column=3" alt="Trophy" style="width: 100%; height: 100%; object-fit: contain;"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <h3> 📏 Used Skills </h3>
 
 > Sorted by frequency of use and proficiency. May assisted by  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" style="display: inline-block;" /> and <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" style="display: inline-block;" />.
@@ -50,24 +72,3 @@
 - 🎛️ Operating System: <img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0" style="display: inline-block;" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat-square&logo=Windows%2011&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Windows%20xp-003399?style=flat-square&logo=windowsxp&logoColor=white" style="display: inline-block;" />
 - 🥅 Other: <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" style="display: inline-block;" /> <img src="https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat-square&labelColor=171717&logoColor=5cb85c" style="display: inline-block;" /> <img src="https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white" style="display: inline-block;" />
 - 🔍 Search Engines: <img src="https://img.shields.io/badge/google-4285F4?style=flat-square&logo=google&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=flat-square&logo=Microsoft%20Bing&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Baidu-2932E1?style=flat-square&logo=Baidu&logoColor=white" style="display: inline-block;" />
-<h3> 👌 Status</h3>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="middle" width="26%">
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Word2VecT&layout=compact&langs_count=6" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;"/>
-      </a>
-    </td>
-    <td align="center" valign="middle" width="33%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Word2VecT&show_icons=true&count_private=true" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;"/>
-      </a>
-    </td>
-    <td align="center" valign="middle" width="41%">
-      <a href="https://github.com/Word2VecT">
-        <img src="https://github-profile-trophy.vercel.app/?username=Word2VecT&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=1&column=3" alt="Trophy" style="width: 100%; height: 100%; object-fit: contain;"/>
-      </a>
-    </td>
-  </tr>
-</table>
