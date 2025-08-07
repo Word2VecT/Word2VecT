@@ -28,11 +28,16 @@
   </p>
 </span>
 
-<h3> 📏 Skills (Assisted by <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" style="display: inline-block;" />)</h3>
+<h3> 📏 Used Skills </h3>
+
+> Sorted by frequency of use and proficiency. May assisted by  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" style="display: inline-block;" />
 
 - 🌐 Browsers: <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Arc-000000?style=flat-square&logo=arc&logoColor=white" style="display: inline-block;" />
 - 📂 Cloud Storage: <img src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=flat-square&logo=Dropbox&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/OneDrive-0078D4.svg?style=flat-square&logo=microsoftonedrive&logoColor=white" style="display: inline-block;" />
   <div style="text-align: left;">
+- 💾 Databases: <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" style="display: inline-block;" />
+- 🧑‍💻 Developer/Forums: <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" style="display: inline-block;" />
+- 
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" style="display: inline-block;" />
@@ -47,9 +52,7 @@
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" style="display: inline-block;" />
+    
     <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=flat-square&logo=pytest&logoColor=2f9fe3" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" style="display: inline-block;" />
