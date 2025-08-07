@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zinan Tang (唐梓楠) </h1>
 
-<h3> 👨🏻‍💻 About Me</h3>
+## 👨🏻‍💻 About Me
 
 - 🤔 Learning NLP、DL、LLM especially Data4LLM and LLM4data.
 - 🏫 Currently a third-year undergraduate student in [BUPT](https://www.bupt.edu.cn/) [School of Computer Science](https://scs.bupt.edu.cn/).
@@ -8,7 +8,7 @@
 - 🌱 Working as an intern at [OpenDataLab](https://opendatalab.github.io) in [Shanghai AI Lab](https://www.shlab.org.cn/), mentored by [Lijun Wu](https://apeterswu.github.io).
 - 🔭 Stay hungry, stay foolish.
 
-<h3> 🤝 Connect with Me</h3>
+## 🤝 Connect with Me
 
 <span align="left">
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +28,7 @@
   </p>
 </span>
 
-<h3> 👌 Status</h3>
+## 👌 Status
 
 <table align="center" width="100%">
   <tr>
@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-<h3> 📏 Used Skills </h3>
+## 📏 Used Skills
 
 > Sorted by frequency of use and proficiency. May assisted by  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" style="display: inline-block;" /> and <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" style="display: inline-block;" />.
 
