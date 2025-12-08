@@ -5,7 +5,6 @@
 - 🤔 Learning NLP、DL、LLM especially Data4LLM and LLM4data.
 - 🏫 Currently a senior undergraduate student in [BUPT](https://www.bupt.edu.cn/) [School of Computer Science](https://scs.bupt.edu.cn/).
 - 🎓 Major in Computer Science (CS).
-- 🌱 Working as an intern at [OpenDataLab](https://opendatalab.github.io) in [Shanghai AI Lab](https://www.shlab.org.cn/), mentored by [Dr. Lijun Wu](https://apeterswu.github.io).
 - 🔭 Stay hungry, stay foolish.
 
 ## 🤝 Connect with Me
