@@ -29,7 +29,7 @@
 
 ## 👌 Status
 
-<table align="center" width="100%">
+<!-- <table align="center" width="100%">
   <tr>
     <td align="center" valign="middle" width="26%">
       <a href="https://github.com/anuraghazra/convoychat">
@@ -47,7 +47,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 ## 📏 Used Skills
 
@@ -60,3 +60,5 @@
 - 🎛️ Operating System: <img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0" style="display: inline-block;" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat-square&logo=Windows%2011&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Windows%20xp-003399?style=flat-square&logo=windowsxp&logoColor=white" style="display: inline-block;" />
 - 🥅 Other: <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" style="display: inline-block;" /> <img src="https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat-square&labelColor=171717&logoColor=5cb85c" style="display: inline-block;" /> <img src="https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/pypi-%23ececec.svg?style=flat-square&logo=pypi&logoColor=1f73b7" style="display: inline-block;" />
 - 🕓 Version Control: <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" style="display: inline-block;" /> <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" style="display: inline-block;" />
+
+![My GitHub Game](game.gif)
