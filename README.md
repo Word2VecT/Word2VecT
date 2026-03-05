@@ -27,8 +27,6 @@
   </p>
 </span>
 
-## 👌 Status
-
 <!-- <table align="center" width="100%">
   <tr>
     <td align="center" valign="middle" width="26%">
